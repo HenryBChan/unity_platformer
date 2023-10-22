@@ -1,1 +1,38 @@
-Library
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ogs/
+
+# User-specific files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+
+# Asset meta data (these files control the import settings of assets)
+*.import
+
+# Unity package metadata
+*.meta
+
+# Visual Studio files
+.vscode/
+*.suo
+*.sln
+*.user
+*.userprefs
+
+# Rider files
+.idea/
+*.sln.iml
+*.csproj.iml
+
+# macOS Finder files
+.DS_Store
+
+# Windows thumbnail files
+Thumbs.db
